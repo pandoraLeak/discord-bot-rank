@@ -1,0 +1,7 @@
+{
+    "prefix": "*",
+    "buyerId": "ton id ou id du buyer jsp debrouille toi",
+    "token": "tkn du bot",
+    "mongoURI": "url mongodb (c pour le systeme d'owner mm si ca sert xD)"
+  }
+  
